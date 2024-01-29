@@ -23,5 +23,11 @@ Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-da
 
 ## BI System
 
+### Architecture
+
+![arquitetura](https://github.com/gpereira1005/UsedCar-Price-Prediction/assets/29869079/963b9c02-1ad9-496c-a7fa-0054c18be398)
+
+### Dashboard
+
 ![image](https://github.com/gpereira1005/UsedCar-Price-Prediction/assets/29869079/3a139ce1-0290-4c47-8f1a-a7c1def14738)
 
