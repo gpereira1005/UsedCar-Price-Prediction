@@ -10,9 +10,9 @@ Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-da
 
 ### Regression Models Used
 
-  • Decision Trees
-  • Neural Networks
-  • Support Vector Machines (SVM)
+  • Decision Trees<br />
+  • Neural Networks<br />
+  • Support Vector Machines (SVM)<br />
   • Random Forest
 
 ### Metrics Results for Best Model (Random Forest)
